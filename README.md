@@ -1,8 +1,10 @@
 # Penetration-Test-with-Metasploit
 Penetration Testing using Metasploit
 
+## Project Description
+This project is a simple penetration testing exercise conducted on a Metasploitable 2 virtual machine using Kali Linux. Metasploitable 2 is an intentionally vulnerable virtual machine with Ubuntu Linux distribution that is designed for testing common vulnerabilities and provides a controlled environment for these testings. This hands-on approach will provide valuable insights into real-world security threats and inform the development of effective security measures.
 
-_Snapshots_
+<h2>Snapshots</h2>
 
 ![ifconfig](/media/01.png)<br>
 ![ping](/media/02.png)<br>
